@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @redrobin005 - Anwin Robin
-- 👀 I’m interested in any and all forms of software development.
+- 👀 I’m interested in finding Graduate Software Developer roles starting September 2021
 - 🌱 I’m currently learning Java, App Dev using Kotlin, Web Dev with HTML/CSS/JS among others.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me axr005@student.bham.ac.uk
 
 <!---
